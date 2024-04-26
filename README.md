@@ -32,7 +32,7 @@
 
 <h3 align="center"> 🧑‍💻 Portfólio:</h3>
 
-<p>Link: <a href="https://renanvilanova.online/" target="_blank"> Portfólio </a></p>
+<h2>Link: <a href="https://renanvilanova.online/" target="_blank" > Portfólio </a></h2>
 
 <br clear="both">
 
